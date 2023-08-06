@@ -1,6 +1,6 @@
 # Electronics-Trading-Network
 
-Test task - online electronics trading network platform
+Online electronics trading network platform
 
 ## Requirements
 
